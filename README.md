@@ -9,21 +9,20 @@ wireframe
 	</head>
 	<body>
 		<header role="banner">
-			<section id="logo">
-			</section>
-			<section>
-				<nav>
-					<h2>navbar</h2>
+			<h1>Wireframe exercise</h1>
+				<nav role="navigation">
+					<h2>logo</h2>
+					<h2>Navigation</h2>
 				</nav>
-			</section>
 		</header>
-		<main>
-			<section id="sidebar">
-			<tree_navigation></tree_navigation>
-			</section>
-			<section id="main_article">
-				<article></article>
-			</section>
+		<main role="main">
+			<aside id="sidebar">
+				<h2>sidebar</h2>
+				<h3>tree_navigation</h3>
+			</aside>
+			<article id="main_article">
+				<h2>article_aside</h2>
+			</article>
 		</main>
 		<footer>
 			<nav>
