@@ -37,7 +37,7 @@ wireframe
 						</ul>
 					</section>
 					<section id="intro">
-						<h3>Introductio</h3>
+						<h3>Introduction</h3>
 						<p>OK,I don't know about you, but I'm reired of that boring Mojo site.  I want to build someting that's useful to me (or us).  So, I'm thinking <em>let's build a website for the pre-work</em>.  We can go through the process step by step.</p>
 						<p>At first, at least, it will just ban an olf-fashined static website.  But maybe later we'll add some CoffeeScript and jQuery and have some fun.</p>
 					</section>
@@ -49,6 +49,44 @@ wireframe
 						<p>Then there are the <em>instructors</em>, who are also the authors and editors of the content.  We'll need to think about them a bit, too.</p>
 						<p>Finally, we might want to show the site off to others: friends, family, the course manager, curriculum folks, etc.  Let's call them <em>guests</em>.  So we should at least consider their needs</p>
 						<p>So we'll creat three <em>personas</em> - student, instructor and guest - one for each type of user.</p>
+					</section>
+					<section id="building-personas">
+					<h3>Great!  How do we build a <em>persona</em> then?</h3>
+						<p>Well, there's an excellent explanation on the <i>usability.gov</i> website, so rather than reinvent the wheelhere, we'll just linke to that.  Go check it, then come back and we'll build our personas.</p>
+						<a href="http://www.usability.gov/how-to-and-tools/methods/personas.html">usability website</a>
+						<p>So let's tak a look at our three example personas...</p>
+					</section>
+					<section id="Persona-WDI">
+						<h3>Persona: Student</h3>
+						<dl class="student">
+							<dt>Persona</dt>
+							<dd>WDI Student</dd>
+							<dt>Photo</dt>
+							<dd><!--add photo here --></dd>
+							<dt>Fictional name</dt>
+							<dd>Sally Student</dd>
+							<dt>Major responsibilities</dt>
+							<dd>Learn web development skill as quickly as possible.</dd>
+							<dt>Demographics</dt>
+							<dd>31 years old</dd>
+							<dd>Single</dd>
+							<dd>No children</dd>
+							<dd>B.S.Economics</dd>
+							<dd>Well travelled</dd>
+							<dd>A bit of an autodidact</dd>
+							<dd>Changing careers</dd>
+							<dt>Goals and tasks</dt>
+							<dd>Excited about canging careers, bu worried about whether she can succeed in a new field.</dd>
+							<dd>Wants to learn as much as possible, but not sure where to start.</dd>
+							<dd>Has tried learning online.  Now trying a more structured method.</dd>
+							<dd>Want a job with a new startup upon graduation.</dd>
+							<dt>Environment</dt>
+							<dd>Has grown up using computers and the internet.  Is comfortable with technology.</dd>
+							<dd>Uses Facebook, Twitter, LinkedIn, Pinterest and a dozen other web services.  Spends at least an hour a day online.</dd>
+							<dd>Can type 40+wpm.  Has a decent laptop and an iphone.  Stays up to date on software.</dd>
+							<dt>Quote</dt>
+							<dd>I hope I can keep up with the work.</dd>
+						</dl>
 					</section>
 				</header>
 				<section>
