@@ -162,7 +162,7 @@ wireframe
 					</section>
 					<section id="user-story">
 					 	<h3>So what's the story?</h3>
-						 <p>We need some way to come up with a <em>specificatiom</em> for our website.  One of the biggest mistakes that most newbie developers 9and many who really oughta know better) make is to <em>jump straight into coding.</em></p>>
+						 <p>We need some way to come up with a <em>specificatiom</em> for our website.  One of the biggest mistakes that most newbie developers 9and many who really oughta know better) make is to <em>jump straight into coding.</em></p>
 						 <p>As you will soon discover, if you haven't already, the compulsion to do this is <em>almost irresistible</em>.  I -- cough, cough --may have even done it myself on occasion.</p>
 						 <p>But jumping straight to the code is what we in the biz call a <strong>Very Bad Idea</strong>.  Just.  Don't.  Do.  It.</p>
 						 <p>What's the point of spending a lot of time writing code <em>if you're just going to end up throwing it all away and redoing it?</em></p>
@@ -175,6 +175,21 @@ wireframe
 							 	<li><strong>Now</strong>, and only now write <em>a little bit of code</em>, then <em>iterate</em> through the above again.</li>
 							 </ol>
 						<p>This iterative process (called <i>Agile Method</i>) allows us to make sure that all the stakeholders are involved at every sep of the process and thea mistakes are discover and dorrected quickly.  We'll be talking a lot about Agile during WDI?  <em>We'll be doing Agile.</em>  Daily.</p>
+					</section>
+					<section id="stories">
+						<h3>Well, what do these stories look like?</h3>
+						<p>The orginal format from 2001 looked like this:</p>
+						<blockquote>As a [role], I want [goal/desire] so that [benefit]</blockquote>
+						<p>Here's an example (from Wikipedia)</p>
+						<blockquote>As a <em>student</em>, I want to see <em>estimated times for completion</em>, so that I may <em>schedule my lesson better.</em></blockquote>
+						<p>Some developers have a problem with this format, however.  They think that the <em>benefit</em> should come first (calling it "hunting the value"), so they swap it around:</p>
+						<blockquote>In order to [<em>receive benefit</em>] as a [<em>role</em>], I want [<em>goal/desire</em>]</blockquote>
+						<p>Now we have:</p>
+						<blockquote>So that I may <em>schedule my lesson better</em>, as a <em>student</em>, I want to <em>see estimated times for completion</em></blockquote>
+						<p>That worked for a number of years.  Then some smart guy pointe out that if you drop the <em>role</em> part, you don't really lose anything.  And then tat lead to yet another idea, that of the <em>job story</em>.  The job story follwo this format:</p>
+						<blockquote>When [<em>situation</em>], I want to [<em>motivation</em>], so I can [<em>expected outcome</em>].</blockquote>
+						<p>Here's our user story rewritten as a job story:</p>
+						<blockquote>When I star a lesson, I want to know <em>how long it will take to complete it</em>, so that I can <em>schedule my time</em> appropriately.</blockquote>
 					</section>
 				</header>
 				<section>
@@ -195,7 +210,7 @@ wireframe
 							<li>What the pros and cons are of <em>Personas</em></li>
 							<li>That the most important thing is the Personas, but <em>understanding the needs and wants of your users</em></li>
 							<li>How to write User Stories</li>
-							<li>That there are several different formats for User Stories and little agreement on <em>how</em> to do them, but near complete agreement that you need to do <em>something</em> to determine your website's geature set and make sure it addressed the needs of your users</li>
+							<li>That there are several different formats for User Stories and little agreement on <em>how</em> to do them, but near complete agreement that you need to do <em>something</em> to determine your website's feature set and make sure it addressed the needs of your users</li>
 						</ul>
 					</section>
 					<section id="lesson-faqs">
