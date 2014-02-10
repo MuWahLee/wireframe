@@ -120,6 +120,38 @@ wireframe
 							<dd>Let's just roll our own and build it from scratch!</dd>
 						</dl>
 					</section>
+					<section id="persona-guest">
+					<h3>Persona: Guest</h3>
+						<dl class="guest">
+							<dt>Persona</dt>
+							<dd>Guest</dd>
+							<dt>Photo</dt>
+							<dd><!-- add photo here -->
+							<dt>Fictional name</dt>
+							<dd>Getrude Guest</dd>
+							<dt>Major responsibilities</dt>
+							<dd>Curious as to what all the hoopla is about.  Works in marketing.</dd>
+							<dt>Demographics</dt>
+							<dd>37 years old</dd>
+							<dd>Married</dd>
+							<dd>Mother of two</dd>
+							<dd>M.S.Marketing, MBA</dd>
+							<dd>Likes to stay home</dd>
+							<dd>Impressed be good graphic design</dd>
+							<dd>Knows a bit about user experience</dd>
+							<dt>Goals and tasks</dt>
+							<dd>Went back to school for an MBA when her kids were old enough to go to school full day.</dd>
+							<dd>Eventually wants to start her own company, but too addicted to her current large income and prestigious position</dd>
+							<dd>Judges websites by how they look and feel - by the UX.</dd>
+							<dt>Environment</dt>
+							<dd>Not entirely comfortable with technology, but comfortable enough.</dd>
+							<dd>Uses a large dispay on her desktop, which is a powerful Mac with graphics capabilities.</dd>
+							<dd>Has a MacBook Air she uses on trips,  Good with varous applications, (photoshop, etc), but knows nothing about coding.</dd>
+							<dd>Has an iPhone and knows how to use it.  Your site better be responsive!</dd>
+							<dt>Quote</dt>
+							<dd>Check out the cool new site I discovered.</dd>
+						</dl>
+					</section>
 				</header>
 				<section>
 					<h3>Section Title</h3>
