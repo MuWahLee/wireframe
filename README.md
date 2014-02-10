@@ -52,8 +52,8 @@ wireframe
 					</section>
 					<section id="building-personas">
 					<h3>Great!  How do we build a <em>persona</em> then?</h3>
-						<p>Well, there's an excellent explanation on the <i>usability.gov</i> website, so rather than reinvent the wheelhere, we'll just linke to that.  Go check it, then come back and we'll build our personas.</p>
-						<a href="http://www.usability.gov/how-to-and-tools/methods/personas.html">usability website</a>
+						<p>Well, there's an excellent explanation on the <a href="http://www.usability.gov/how-to-and-tools/methods/personas.html">usability.gov website</a>, so rather than reinvent the wheelhere, we'll just linke to that.  Go check it, then come back and we'll build our personas.</p>
+						<a href="http://www.usability.gov/how-to-and-tools/methods/personas.html">usability.gov website</a>
 						<p>So let's tak a look at our three example personas...</p>
 					</section>
 					<section id="Persona-WDI">
@@ -86,6 +86,38 @@ wireframe
 							<dd>Can type 40+wpm.  Has a decent laptop and an iphone.  Stays up to date on software.</dd>
 							<dt>Quote</dt>
 							<dd>I hope I can keep up with the work.</dd>
+						</dl>
+					</section>
+					<section id="Persona-instructor">
+						<h3>Persona: Instructor</h3>
+						<dl class="instructor">
+							<dt>Persona</dt>
+							<dd>WDI Instructor</dd>
+							<dt>Photo</dt>
+							<dd><!-- add photo here -->
+							<dt>Fictional name</dt>
+							<dd>Irving Instructor</dd>
+							<dt>Major responsibilities</dt>
+							<dd>Teach web eveloment skill an an immersive setting.</dd>
+							<dt>Demographics</dt>
+							<dd>28 years old</dd>
+							<dd>Married</dd>
+							<dd>No children</dd>
+							<dd>B.S.Informatics</dd>
+							<dd>Well travelled</dd>
+							<dd>An autodidact</dd>
+							<dd>A bit of a geek</dd>
+							<dt>Goals and tasks</dt>
+							<dd>Want to make WDI the best possible experience for students.</dd>
+							<dd>Always looking to improve the curriculum and to find more effective and efficent ways to teach the material.</dd>
+							<dd>Works hard to keep up to date on the latest frameworks and APIs.</dd>
+							<dt>Environment</dt>
+							<dd>Spent three years working a large coroporation after graduating from University of Syracuse, with a degree in Informatics.</dd>
+							<dd>Workded forur more ears a a freelancer before getting involved in the startup community.</dd>
+							<dd>Has given several seminar at varous conventions.  Seminars generally well attended.</dd>
+							<dd>Has all of the latest gear and keep everything up to date.</dd>
+							<dt>Quote</dt>
+							<dd>Let's just roll our own and build it from scratch!</dd>
 						</dl>
 					</section>
 				</header>
