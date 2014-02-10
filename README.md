@@ -70,6 +70,20 @@ wireframe
 						<dd>Sorry to be the one to have to break it to you.</dd>
 						</dl>
 					</section>
+					<section id="additional-resources">
+						<h4>Additional Resources</h4>
+						<ul class="resources">
+							<li><a href="http://1usa.gov/1cZZfj6">Personas</a></li>
+							<li><a href="http://bit.ly/KlG8ne">Why Personas Suck</a></li>
+							<li><a href="http://bit.ly/1ak8HYJ">User Stories</a></li>
+							<li><a href="http://bit.ly/KkdHXk">User Story Tips</a></li>
+							<li><a href="ttp://bit.ly/19CiJKe">Who does what?</a></li>
+							<li><a href="http://bit.ly/JKTKHW">Job stories</a></li>
+							<li><a href="http://bit.ly/1gbtzWg">Wireframes</a></li>
+							<li><a href="http://bit.ly/1dVb1aP">A gretty good guide to wireframing</a></li>
+							<li><a href="http://balsamiq.com/">Balsamiq</a></li>
+						</ul>
+					</section>
 				</footer>
 			</article>
 		</main>
