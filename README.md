@@ -32,7 +32,7 @@ wireframe
 						<ul>
 							<li>Learn the basics of websites and Why</li>
 							<li>Wireframe a few pages</li>
-							<li>Learn about <em>sectioning content</em> and the &lt;nav&gt;, &lt;article&gt; and &lt;aside&gt; tags</li>
+							<li>Learn about <em>sectioning content</em> and the  &lt;nav&gt;,  &lt;article&gt;  and  &lt;aside&gt;  tags</li>
 							<li>Get a little deeper into ARIA roles</li>
 							<li>Take a break</li>
 						</ul>
@@ -59,6 +59,16 @@ wireframe
 							<li>That there are several different formats for User Stories and little agreement on <em>how</em> to do them, but near complete agreement that you need to do <em>something</em> to determine your website's geature set and make sure it addressed the needs of your users</li>
 					<!--  additional resources here -->
 						</ul>
+					</section>
+					<section id="lesson-faqs">
+						<h4>Frequently Asked Questions</h4>
+						<dl class="faqs">
+							<dt>Is it just me, or does Irving look a little like Jackie Chan?</dt>
+						<dd>It's just you</dd>
+						<dt>Do I really have to go through all this trouble?  Can't I just start coding?</dt>
+						<dd>Of course you can just jump into the coding.  All shitty web developers do,  Just admit that you suck and you can skip all of these formalities.  Unfortunately, if "suck" is not the adjective you had in mind to describe your skill set, well, no, you can't really skip these steps.</dd>
+						<dd>Sorry to be the one to have to break it to you.</dd>
+						</dl>
 					</section>
 				</footer>
 			</article>
