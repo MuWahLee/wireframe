@@ -96,18 +96,14 @@
             <dl class="persona">
               <dt>Persona</dt>
               <dd>Student</dd>
-
               <dt>Photo</dt>
               <dd>
                 <img src="" width="" height="" alt="">
               </dd>
-
               <dt>Fictional name</dt>
               <dd>Sally Student</dd>
-
               <dt>Major responsibilities</dt>
               <dd>Learn web development skills as quickly as possible</dd>
-
               <dt>Demographics</dt>
               <dd>
                 <ul>
@@ -120,7 +116,6 @@
                   <li>Changing careers</li>
                 </ul>
               </dd>
-
               <dt>Goals and tasks</dt>
               <dd>
                 <p>
@@ -135,7 +130,6 @@
                   Wants a job with a new startup upon graduation.
                 </p>
               </dd>
-
               <dt>Environment</dt>
               <dd>
                 <p>
@@ -151,7 +145,6 @@
                   to date on software.
                 </p>
               </dd>
-
               <dt>Quote</dt>
               <dd>
                 <q>I hope I can keep up with the work!</q>
@@ -163,18 +156,14 @@
             <dl class="persona">
               <dt>Persona</dt>
               <dd>Instructor</dd>
-
               <dt>Photo</dt>
               <dd>
                 <img src="" width="" height="" alt="">
               </dd>
-
               <dt>Fictional name</dt>
               <dd>Irving Instructor</dd>
-
               <dt>Major responsibilities</dt>
               <dd>Teach web development skills in an immersive setting</dd>
-
               <dt>Demographics</dt>
               <dd>
                 <ul>
@@ -187,7 +176,6 @@
                   <li>A bit of a geek</li>
                 </ul>
               </dd>
-
               <dt>Goals and tasks</dt>
               <dd>
                 <p>
@@ -202,7 +190,6 @@
                   Works hard to keep up to date on the latest frameworks and APIs.
                 </p>
               </dd>
-
               <dt>Environment</dt>
               <dd>
                 <p>
@@ -221,7 +208,6 @@
                   Has all the latest gear and keeps everything up to date.
                 </p>
               </dd>
-
               <dt>Quote</dt>
               <dd>
                 <q>Let's just roll our own and build it from scratch!</q>
@@ -233,18 +219,14 @@
             <dl class="persona">
               <dt>Persona</dt>
               <dd>Guest</dd>
-
               <dt>Photo</dt>
               <dd>
                 <img src="" width="" height="" alt="">
               </dd>
-
               <dt>Fictional name</dt>
               <dd>Gertrude Guest</dd>
-
               <dt>Major responsibilities</dt>
               <dd>Curious as to what all the hoopla is about. Works in marketing.</dd>
-
               <dt>Demographics</dt>
               <dd>
                 <ul>
@@ -257,7 +239,6 @@
                   <li>Knows a bit about user experience</li>
                 </ul>
               </dd>
-
               <dt>Goals and tasks</dt>
               <dd>
                 <p>
@@ -272,7 +253,6 @@
                   Judges websites by how they look and feel&mdash;by the UX.
                 </p>
               </dd>
-
               <dt>Environment</dt>
               <dd>
                 <p>
@@ -291,7 +271,6 @@
                   responsive!
                 </p>
               </dd>
-
               <dt>Quote</dt>
               <dd>
                 <q>Check out the cool new site I discovered!</q>
@@ -381,14 +360,12 @@
               I want <b class="generic-element">[goal/desire]</b>
               so that <b class="generic-element">[benefit]</b>
             </dd>
-
             <dt>Here's an example (from Wikipedia):</dt>
             <dd>
               As a <b class="specific-element">student</b>,
               I want <b class="specific-element">to see estimated times for completion</b>,
               so that <b class="specific-element">I may schedule my lesson better</b>.
             </dd>
-
             <dt>
               Some developers have a problem with this format, however. They think that
               the benefit should come first (calling it &ldquo;hunting the value&rdquo;), so they swap
@@ -399,14 +376,12 @@
               as a <b class="generic-element">[role]</b>,
               I want <b class="generic-element">[goal/desire]</b>
             </dd>
-
             <dt>Now we have:</dt>
             <dd>
               So that <b class="specific-element">I may schedule my lessons better</b>,
               as a <b class="specific-element">student</b>,
               I want <b class="specific-element">to see estimated times for completion</b>.
             </dd>
-
             <dt>
               That worked for a number of years. Then some smart guy pointed out that if you
               drop the role part, you don't really lose anything. And then that lead to yet
@@ -417,7 +392,6 @@
               I want to <b class="generic-element">[motivation]</b>,
               so I can <b class="generic-element">[expected outcome]</b>
             </dd>
-
             <dt>Here's our user story rewritten as a job story:</dt>
             <dd>
               When <b class="specific-element">I start a lesson</b>,
